@@ -2,7 +2,7 @@
 
 ### Link to Deployed Website
 
-If you used the stencil code, this is `https://TrashiestPanda666.github.io/Development`
+If you used the stencil code, this is `https://TrashiestPanda666.github.io/DevelopmentActual2`
 
 ### Goal and Value of the Application
     The application is a bakery similar to the one we made in studio. The user will be able to add items to their cart and the total price
